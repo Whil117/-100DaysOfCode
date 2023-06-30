@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{CFEB4A05-2CA5-4D2E-9D11-E0DC5292252D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-day-helloworld", "HelloWorld\1-day-helloworld.csproj", "{CFEB4A05-2CA5-4D2E-9D11-E0DC5292252D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-day-variables", "2-day-variables\2-day-variables.csproj", "{64C094D3-2AFE-4774-8D1E-8EF50AFD7CB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CFEB4A05-2CA5-4D2E-9D11-E0DC5292252D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFEB4A05-2CA5-4D2E-9D11-E0DC5292252D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFEB4A05-2CA5-4D2E-9D11-E0DC5292252D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C094D3-2AFE-4774-8D1E-8EF50AFD7CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C094D3-2AFE-4774-8D1E-8EF50AFD7CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C094D3-2AFE-4774-8D1E-8EF50AFD7CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C094D3-2AFE-4774-8D1E-8EF50AFD7CB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
