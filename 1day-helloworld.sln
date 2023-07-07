@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-day-variables", "2-day-va
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-day-datatypes", "3-day-datatypes\3-day-datatypes.csproj", "{B6E5CD84-D271-42A0-AA48-0DC6206082C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-day-userinput-operatorrs-math-strings-booleans", "4-day-userinput-operatorrs-math-strings-booleans\4-day-userinput-operatorrs-math-strings-booleans.csproj", "{7F346A85-F230-487F-A433-0EA5ECDDDA1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-day-userinput-operatorrs-math-strings-booleans", "4-day-userinput-operatorrs-math-strings-booleans\4-day-userinput-operatorrs-math-strings-booleans.csproj", "{7F346A85-F230-487F-A433-0EA5ECDDDA1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-day-math-strings-bools", "5-day-math-strings-bools\5-day-math-strings-bools.csproj", "{F593514E-0D7A-47DD-BE35-40262839FC21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-day-operators-if-switch-loop", "7-day-operators-if-switch-loop\7-day-operators-if-switch-loop.csproj", "{DC351D91-6ADA-4BAC-81E2-A361EC60D403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{7F346A85-F230-487F-A433-0EA5ECDDDA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F346A85-F230-487F-A433-0EA5ECDDDA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F346A85-F230-487F-A433-0EA5ECDDDA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F593514E-0D7A-47DD-BE35-40262839FC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F593514E-0D7A-47DD-BE35-40262839FC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F593514E-0D7A-47DD-BE35-40262839FC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F593514E-0D7A-47DD-BE35-40262839FC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC351D91-6ADA-4BAC-81E2-A361EC60D403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC351D91-6ADA-4BAC-81E2-A361EC60D403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC351D91-6ADA-4BAC-81E2-A361EC60D403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC351D91-6ADA-4BAC-81E2-A361EC60D403}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
