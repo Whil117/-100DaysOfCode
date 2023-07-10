@@ -58,6 +58,12 @@ for (int i = 0; i < 5; i++)
 }
 
 string[] techs = { "React", "Javascript", "Vuejs" };
+int[] numbers = { 1, 2, 3, 4, 5, 6, };
+
+ string[] cars = { "Volvo", "BMW", "Ford", "Mazda","example" };
+
+Console.WriteLine(cars[0] + " " + "first cars");
+
 
 Console.WriteLine(techs[0]);
 
