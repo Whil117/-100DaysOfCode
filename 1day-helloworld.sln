@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-day-math-strings-bools", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-day-operators-if-switch-loop", "7-day-operators-if-switch-loop\7-day-operators-if-switch-loop.csproj", "{DC351D91-6ADA-4BAC-81E2-A361EC60D403}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-day-methods", "8-day-methods\8-day-methods.csproj", "{19D00E2E-357B-4BA7-BC42-5DC99377FA66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-day-methods", "8-day-methods\8-day-methods.csproj", "{19D00E2E-357B-4BA7-BC42-5DC99377FA66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-day-class-opp", "9-day-class-opp\9-day-class-opp.csproj", "{1CC430FE-6827-4E8D-87C4-5CF1E14E2AE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{19D00E2E-357B-4BA7-BC42-5DC99377FA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19D00E2E-357B-4BA7-BC42-5DC99377FA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19D00E2E-357B-4BA7-BC42-5DC99377FA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CC430FE-6827-4E8D-87C4-5CF1E14E2AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC430FE-6827-4E8D-87C4-5CF1E14E2AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC430FE-6827-4E8D-87C4-5CF1E14E2AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC430FE-6827-4E8D-87C4-5CF1E14E2AE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
